@@ -9,7 +9,7 @@ import java.io.FileWriter;
 import java.sql.SQLException;
 import java.util.Date;
 import static DatabaseConnection.OracleConn.sql;
-import javax.swing.JOptionPane;
+import javax.swing.*;
 
 public class Error_Dynamic {
 
